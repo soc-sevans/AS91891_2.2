@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Mozilla+Headline:wght@200..700&amp;display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <div class="Header"> 10 Heuristics </div> 
+    
+    <div class="screen-content">
+      
+    <div class=" Pages-List"> 
+
+      <div class="Pages-List-Item Rule-1">
+        <a href="Rule_1.html">Rule 1</a> </div>
+      <div class="Pages-List-Item Rule-2">
+        <a href="Rule_2.html">Rule 2</a></div>
+      <div class="Pages-List-Item Rule-3">
+        <a href="Rule_3.html">Rule 3</a></div>
+      <div class="Pages-List-Item Rule-4">
+        <a href="Rule_4.html">Rule 4</a></div>
+      <div class="Pages-List-Item Rule-5">
+        <a href="Rule_5.html">Rule 5</a></div>
+      <div class="Pages-List-Item Rule-6">
+        <a href="Rule_6.html">Rule 6</a></div>
+      <div class="Pages-List-Item Rule-7">
+        <a href="Rule_7.html">Rule 7</a></div>
+      <div class="Pages-List-Item Rule-8">
+        <a href="Rule_8.html">Rule 8</a></div>
+      <div class="Pages-List-Item Rule-9">
+        <a href="Rule_9.html">Rule 9</a></div>
+      <div class="Pages-List-Item Rule-10">
+        <a href="Rule_10.html">Rule 10</a></div>
+    </div>
+    
+      <div class="main-content">
+        
+
+        <div class="rule-headers">
+        <div class="rule-num"> 
+          Rule #1
+          </div> 
+        <div class="rule-desc">
+          Visability of System status 
+         
