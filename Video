@@ -1,0 +1,23 @@
+<!-- This is a commented out section   <div class="video" src="https://www.youtube.com/embed/cTtc90jCULU" title="Usability Heuristic 1: Visibility of System Status" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          
+          <iframe width="90%" height= "70%"
+          src="https://www.youtube.com/embed/cTtc90jCULU" 
+          title="Usability Heuristic 1: Visibility of System Status" frameborder="0"  picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+          <!--<div class="videos" 
+           src="https://www.youtube.com/embed/cTtc90jCULU?list=PLoefJq2KU1kIum-NkMPXG8KrMvMGBHbk5" title="Usability Heuristic 1: Visibility of System Status" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+          </div>  -->
+
+<!-- all the code above (thats been commented out) is me trying to add in an embedded video from youtube and making it responsive to the page size -->
+
+
+HTML: 
+          <div class="videos">
+          <iframe src="https://www.youtube.com/embed/cTtc90jCULU?list=PLoefJq2KU1kIum-NkMPXG8KrMvMGBHbk5">
+        </iframe>
+
+CSS: 
+
+      .videos{ 
+      width: 100%;
+      height:auto ;
+      }
