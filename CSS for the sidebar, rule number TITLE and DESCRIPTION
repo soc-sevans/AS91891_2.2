@@ -1,0 +1,29 @@
+.Pages-List a {
+
+  color:#e1b9c1ff;
+  display: flex; 
+  flex: 1;
+  float: left;
+  justify-content: flex-start;
+  align-items: stretch; 
+  grid-area: sidebar;
+  flex-direction: column;
+  Padding:30%;
+  margin: 0; 
+  border: 1px;
+  align-items: center;
+
+.rule-desc{
+  text-align: center;
+  font-size: 30px;
+  font-family: "Mozilla Headline";
+  color: #181b12ff;
+  font-size: 4.5vw;
+
+.rule-num{ 
+  font-size: 90px;
+  text-align: center;
+  font-family: "Mozilla Headline";
+  color: #2c3220ff;
+  font-size: 16vw;
+    
